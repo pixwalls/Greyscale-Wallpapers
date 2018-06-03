@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="01">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/01.png</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/01.png</preview>
+    </wallpaper>
+	<wallpaper id="02">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/02.png</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/02.png</preview>
+    </wallpaper>
+	<wallpaper id="03">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/03.png</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/03.png</preview>
+    </wallpaper>
+	<wallpaper id="04">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/04.png</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/04.png</preview>
+    </wallpaper>
+	<wallpaper id="05">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/05.png</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/05.png</preview>
+    </wallpaper>
+</substratum>	
