@@ -28,4 +28,16 @@
         <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/07.jpg</link>
         <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/07.jpg</preview>
     </wallpaper>
+    	 <wallpaper id="08">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/08.jpg</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/08.jpg</preview>
+    </wallpaper>
+    	 <wallpaper id="09">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/09.jpeg</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/09.jpeg</preview>
+    </wallpaper>
+    	 <wallpaper id="10">
+        <link>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/10.jpg</link>
+        <preview>https://raw.githubusercontent.com/pixwalls/Greyscale-Wallpapers/master/Walls/10.jpg</preview>
+    </wallpaper>
 </substratum>	
